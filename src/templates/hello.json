@@ -11,7 +11,7 @@
 					{
 						"asset": {
 							"type": "rich-text",
-							"text": "Hello World!",
+							"text": "Arijit Pramanick Digital Mate!",
 							"font": {
 								"family": "Roboto",
 								"size": 48,
@@ -34,12 +34,12 @@
 							},
 							"animation": {
 								"preset": "typewriter",
-								"duration": 3,
+								"duration": 9,
 								"style": "character"
 							}
 						},
 						"start": 0,
-						"length": 4,
+						"length": 10,
 						"width": 800,
 						"height": 400
 					}
