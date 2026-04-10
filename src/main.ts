@@ -55,6 +55,8 @@ async function main() {
 			console.log("Clip updated:", data);
 		});
 
+		
+
 		// Additional helpful information for the demo
 		console.log("Demo loaded successfully! Try the following keyboard controls:");
 		console.log("- Space: Play/Pause");
