@@ -7,6 +7,8 @@ import * as pixi from "pixi.js";
 
 import type { Timeline } from "../timeline/timeline";
 
+//commit F
+
 export class Canvas {
 	/** @internal */
 	public static readonly CanvasSelector = "[data-shotstack-studio]";
